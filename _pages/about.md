@@ -14,8 +14,8 @@ In my free time, I do a lot of tennis (self-estimated level 3.0-3.5). I also lov
 
 Publications
 ======
-* **Choosing Public Datasets for Private Machine Learning via Gradient Subspace Distance** [paper](https://openreview.net/forum?id=zr6AZ8ARan)
-  <ins>Xin Gu</ins>, Gautam Kamath, Steven Wu
+* **Choosing Public Datasets for Private Machine Learning via Gradient Subspace Distance** [paper](https://openreview.net/forum?id=zr6AZ8ARan) <br />
+  <ins>Xin Gu</ins>, Gautam Kamath, Steven Wu <br />
   [NeurIPS 2022 Workshop on Distribution Shifts](https://sites.google.com/view/distshift2022/home?authuser=0)
 
 Getting started
