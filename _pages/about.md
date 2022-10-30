@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me"
-excerpt: "About me"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,13 +10,13 @@ redirect_from:
 
 Hi! My name is Xin Gu. I am currently a Master student in the Software and Societal Systems Department at Carnegie Mellon University. I am extremely fortunate to be able to work with Prof. [Steven Wu](https://zstevenwu.com/) at CMU and Prof. [Gautam Kamath](http://www.gautamkamath.com/) at University of Waterloo on private machine learning. My research interests mainly centers around differential privacy and machine learning.
 
-In my free time, I do a lot of tennis (self-estimated level 3.0-3.5). I also love playing [GO](https://www.deepmind.com/research/highlighted-research/alphago).
+In my free time, I do a lot of tennis (self-estimated level 3.0-3.5). I also love playing [GO](https://www.deepmind.com/research/highlighted-research/alphago). I obtained 5D (non-pro) when I was 10.
 
-A data-driven personal website
+Publications
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+* **Choosing Public Datasets for Private Machine Learning via Gradient Subspace Distance** [paper](https://openreview.net/forum?id=zr6AZ8ARan)
+  <ins>Xin Gu</ins>, Gautam Kamath, Steven Wu
+  [NeurIPS 2022 Workshop on Distribution Shifts](https://sites.google.com/view/distshift2022/home?authuser=0)
 
 Getting started
 ======
