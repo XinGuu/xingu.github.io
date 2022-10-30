@@ -16,7 +16,7 @@ Publications
 ======
 * **Choosing Public Datasets for Private Machine Learning via Gradient Subspace Distance** [[paper](https://openreview.net/forum?id=zr6AZ8ARan)] <br />
   <ins>Xin Gu</ins>, Gautam Kamath, Steven Wu <br />
-  [NeurIPS 2022 Workshop on Distribution Shifts](https://sites.google.com/view/distshift2022/home?authuser=0)
+  NeurIPS 2022 Workshop on Distribution Shifts [Distshift 2022](https://sites.google.com/view/distshift2022/home?authuser=0)
 
 Teaching
 ======
