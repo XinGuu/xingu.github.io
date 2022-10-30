@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xin Gu"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi! My name is Xin Gu. I am currently a Master student in the Software and Societal Systems Department at Carnegie Mellon University. I am extremely fortunate to be able to work with Prof. [Steven Wu](https://zstevenwu.com/) at CMU and Prof. [Gautam Kamath](http://www.gautamkamath.com/) at University of Waterloo on private machine learning. My research interests mainly centers around differential privacy and machine learning.
+
+In my free time, I do a lot of tennis (self-estimated level 3.0-3.5). I also love playing [GO](https://www.deepmind.com/research/highlighted-research/alphago).
 
 A data-driven personal website
 ======
