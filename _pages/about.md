@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! My name is Xin Gu. I am currently a Master student in the Software and Societal Systems Department at Carnegie Mellon University. I am extremely fortunate to be able to work with Prof. [Steven Wu](https://zstevenwu.com/) at CMU and Prof. [Gautam Kamath](http://www.gautamkamath.com/) at University of Waterloo on private machine learning. My research interests mainly center around differential privacy and machine learning.
 
-In my free time, I do a lot of tennis (self-estimated level 3.0-3.5). I also love playing [GO](https://www.deepmind.com/research/highlighted-research/alphago). I obtained 5D (non-pro) when I was 10.
+In my free time, I do a lot of tennis (self-estimated level 3.0-3.5). I also love playing [GO](https://www.deepmind.com/research/highlighted-research/alphago). I obtained 5D when I was 10.
 
 Publications
 ======
